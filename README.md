@@ -1,2 +1,1 @@
-# GuessTheNumbers
-# GuessTheNumbers
+# Guess The Numbers - A Tricky Game
